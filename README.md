@@ -18,7 +18,7 @@ Clone this repository:
 sh
 Copy
 Edit
-git clone https://github.com/yourusername/Hasicrop-Terraform.git
+git clone https://github.com/sumanth257/Hasicrop-Terraform.git
 cd Hasicrop-Terraform
 Initialize Terraform:
 sh
