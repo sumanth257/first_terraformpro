@@ -1,6 +1,6 @@
 Hasicrop-Terraform
 Overview
-Hasicrop-Terraform is a project that leverages Terraform to automate infrastructure provisioning. It includes various Terraform commands, con[Hasicrop@intro.docx](https://github.com/user-attachments/files/18902936/Hasicrop%40intro.docx)
+Hasicrop-Terraform is a project that leverages Terraform to automate infrastructure provisioning. It includes various Terraform commands, con[Hasicrop@intro.docx](https://github.com/sumanth257/files/18902936/Hasicrop%40intro.docx)
 figurations, and provisioners to help manage cloud infrastructure efficiently.
 
 Features
